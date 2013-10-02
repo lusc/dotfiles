@@ -1,0 +1,36 @@
+URxvt*color0         : #00AC6b
+URxvt*color1         : #21815C
+URxvt*color2         : #006F45
+URxvt*color3         : #35D598
+URxvt*color4         : #5FD5A8
+URxvt*color5         : #009999
+URxvt*color6         : #1D7272
+URxvt*color7         : #006363
+URxvt*color8         : #32CBCB
+URxvt*color9         : #5ACBCB
+URxvt*color10        : #FF7400
+URxvt*color11        : #BE7130
+URxvt*color12        : #A44B00
+URxvt*color13        : #FF963F
+URxvt*color14        : #FFb171
+URxvt*color15        : #BE5D30
+URxvt*colorBD        : #009999
+URxvt*colorIT        : #1D7272
+URxvt*colorUL        : #006363
+URxvt*foreground     : #DAE8E2
+URxvt*background     : #272B29
+URxvt*cursorColor    : #DAE8E2
+
+URxvt*scrollBar: false
+
+!Fonts!
+URxvt.font:      xft:Inconsolata:pixelsize=14
+URxvt.boldFont:      xft:Inconsolata:style=bold:pixelsize=14
+
+
+Xft.dpi: 96
+Xft.antialias: true
+Xft.rgba: rgb
+Xft.hinting: true
+Xft.hinstyle: hintslight
+
