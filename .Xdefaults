@@ -17,15 +17,19 @@ URxvt*color15        : #BE5D30
 URxvt*colorBD        : #009999
 URxvt*colorIT        : #1D7272
 URxvt*colorUL        : #006363
-URxvt*foreground     : #DAE8E2
-URxvt*background     : #272B29
+URxvt*foreground     : #5fd5a8
+URxvt*background     : [70]#232921
 URxvt*cursorColor    : #DAE8E2
 
 URxvt*scrollBar: false
 
 !Fonts!
-URxvt.font:      xft:Inconsolata:pixelsize=14
+URxvt.font:      xft:Inconsolata:pixelsize=12
 URxvt.boldFont:      xft:Inconsolata:style=bold:pixelsize=14
+
+!Transparency!
+URxvt.depth:32
+
 
 
 Xft.dpi: 96
